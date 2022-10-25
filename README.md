@@ -25,4 +25,4 @@ test repo for analytical workflows
 
 $$f(x) = 3.14*x^2$$
 
-[![Gandalf agrees](https://user-images.githubusercontent.com/113950948/197846863-acf123bf-2b7e-4ead-a716-293c137900f7.png))
+[![Gandalf agrees](https://user-images.githubusercontent.com/113950948/197846863-acf123bf-2b7e-4ead-a716-293c137900f7.png)
