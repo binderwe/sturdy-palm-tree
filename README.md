@@ -25,4 +25,4 @@ test repo for analytical workflows
 
 $$f(x) = 3.14*x^2$$
 
-[![Gandalf agrees](<iframe src="https://giphy.com/embed/TcdpZwYDPlWXC" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-laughing-lotr-TcdpZwYDPlWXC">via GIPHY</a></p>)
+[![Gandalf agrees](https://user-images.githubusercontent.com/113950948/197846863-acf123bf-2b7e-4ead-a716-293c137900f7.png))
